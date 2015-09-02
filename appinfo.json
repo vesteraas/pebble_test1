@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wvesteraas@gmail.com",
+    "longName": "Test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Test",
+    "uuid": "2ab7bc61-9c64-4a6e-a4f3-a65f8bb98c50",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
